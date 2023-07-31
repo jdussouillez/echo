@@ -1,2 +1,4 @@
 # echo
-Discover machines on your local network
+
+Discover machines on your local network.
+
